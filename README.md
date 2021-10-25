@@ -1,4 +1,4 @@
-# Portfolio
+# Work Day Scheduler
 
 ### Purpose
 The purpose of this project is to create a daily planner for standard business hours. A user can add items to the daily planner and it will save the items in local storage.
@@ -12,7 +12,7 @@ The purpose of this project is to create a daily planner for standard business h
 * Moment.js
 
 ### Website
-
+https://mkothari93.github.io/work-day-scheduler/
 
 ### Image of Website
 ![Work Day Scheduler](https://user-images.githubusercontent.com/90233589/138639008-69e7f57b-7bd4-4f07-b936-393e05b44622.JPG)
