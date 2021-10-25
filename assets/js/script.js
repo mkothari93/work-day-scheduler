@@ -9,6 +9,8 @@ $(document).ready(function () {
     timeBlockEl.each(function (){
         var currentTimeBlockHr = parseInt($(this).attr("id"));
 
+        $(this).children(".description").val(localStorage.getItem(currentTimeBlockHr));
+
         //If the time block is equal to the current hour, add the class "present"
         if (currentTimeBlockHr == currentHr) {
             $(this, ".description").addClass("present")
